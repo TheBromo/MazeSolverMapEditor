@@ -1,4 +1,4 @@
-package sample;
+package ch.bbw;
 
 public class Controller {
 }
